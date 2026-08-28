@@ -1,0 +1,35 @@
+name: Publish Logseq graph
+
+# 每次 push 到 main 分支都自动构建并部署
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    name: Build SPA and deploy to GitHub Pages
+    steps:
+      - name: Checkout graph
+        uses: actions/checkout@v4
+
+      # 用 logseq/publish-spa 把图仓库（repo 根目录 = 图谱根目录）导出成静态 SPA
+      - name: Build SPA
+        uses: logseq/publish-spa@main
+        with:
+          graph-directory: .
+          theme-mode: light
+          accent-color: blue
+
+      # 加 .nojekyll，避免 GitHub Pages 把 assets/ 当 Jekyll 目录处理
+      - name: Add .nojekyll
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+
+      # 把生成的 www/ 推到 gh-pages 分支
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: www

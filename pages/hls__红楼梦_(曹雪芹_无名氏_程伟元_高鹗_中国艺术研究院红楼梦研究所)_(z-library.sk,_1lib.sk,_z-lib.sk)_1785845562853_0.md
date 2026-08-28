@@ -1,0 +1,316 @@
+public:: true
+
+file:: [红楼梦_(曹雪芹_无名氏_程伟元_高鹗_中国艺术研究院红楼梦研究所)_(z-library.sk,_1lib.sk,_z-lib.sk)_1785845562853_0.pdf](../assets/红楼梦_(曹雪芹_无名氏_程伟元_高鹗_中国艺术研究院红楼梦研究所)_(z-library.sk,_1lib.sk,_z-lib.sk)_1785845562853_0.pdf)
+file-path:: ../assets/红楼梦_(曹雪芹_无名氏_程伟元_高鹗_中国艺术研究院红楼梦研究所)_(z-library.sk,_1lib.sk,_z-lib.sk)_1785845562853_0.pdf
+
+- 曹雪芹
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: yellow
+  id:: 6a71d851-38af-4385-896d-677845a0eae9
+- 姓曹名霑，字梦阮，号芹溪居士
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: yellow
+  id:: 6a71d9ef-62a4-47ee-8cd9-85a3525374eb
+- 但有的研究者认为他的“字”是“芹圃”，号“雪芹”
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: yellow
+  id:: 6a71d9f7-a950-4f61-bad2-1423968887c8
+- 曹雪芹的父亲
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: yellow
+  id:: 6a71da06-85ac-4bd9-a1c7-f81f8f61a41d
+- 曹雪芹就是出生在南京的。直到雍正六年曹家抄没后才全家迁回北京
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: yellow
+  id:: 6a71da5e-15f3-4ccf-a79c-466cb928eb7c
+- 他与敦诚、敦敏成为亲密朋友，是在右翼宗学里开始结识的，后来落魄住到了西郊，
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 6a71dac2-32ee-4317-af1a-fa0078db147e
+- 当时，曹雪芹尚年幼，按生于乙未说是虚岁十四岁，按生于甲辰说是虚岁才五岁。
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: red
+  id:: 6a71dae0-a11d-4b35-8351-fa1256824424
+- 巨著《石头记》就是在西郊的山村里写成的。
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: red
+  id:: 6a71db14-c842-4ca6-b061-0aa83b8bd169
+- 曹雪芹晚年的生活穷愁潦倒而又嗜酒狂放，朋友们常把他比作晋朝的阮籍。他甚至穷困到“举家食粥”的地步，常常要靠卖画来换酒喝。他的画很为当时的朋友们所推重。
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 6a71db33-488b-4780-b160-9b38438bee99
+- 《红楼梦》是一部具有高度思想性和高度艺术性的伟大作品
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: green
+  id:: 6a71db73-48d9-4668-8fb3-034ce82f1257
+- 作者具有初步的民主主义思想，
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: green
+  id:: 6a71db8a-ad02-4d93-8c77-ed87b81a8276
+- 现实社会包括宫廷及官场的黑暗，封建贵族阶级及其家庭的腐朽，封建的科举制度、婚姻制度、奴婢制度、等级制度，以及与此相适应的社会统治思想即孔孟之道和程朱理学、社会道德观念等等，都进行了深刻的批判并且提出了朦胧的带有初步民主主义性质的理想和主张。
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: blue
+  id:: 6a71db9e-4568-424f-b969-c1ca9e9ebf92
+- 《红楼梦》的情节结构，在以往传统小说的基础上，也有了新的重大的突破。
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: green
+  id:: 6a71dd60-aa7d-404b-b423-26359bb7de52
+- 娲皇氏只用了三万六千五百块，只单单剩了一块未用，便弃在此山青埂峰下。谁知此石自经煅炼之后，灵性已通，因见众石俱得补天，独自己无材不堪入选，遂自怨自叹，日夜悲号惭愧。
+  ls-type:: annotation
+  hl-page:: 33
+  hl-color:: yellow
+  id:: 6a71f35e-e1ef-48d2-8c47-3f3a2813f95f
+- 一块大石登时变成〔二〕一块鲜明莹洁的美玉，且又缩成扇坠[13]大小的可佩可拿。
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 6a71f3bd-b1d9-4ed8-a051-8415e1c2922d
+- 须得再镌上数字，使人一见便知是奇物方妙。然后携你到那昌明隆盛之邦，诗礼簪缨之族[14]，花柳繁华地，温柔富贵乡去安身乐业。
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 6a71f417-9a39-4a06-8d09-c66b4085be14
+- 有个空空道人访道求仙，忽从这大荒山无稽崖青埂峰下经过，忽见一大块石上字迹分明，编述历历。空空道人乃从头一看，原来就是无材补天，幻形入世，蒙茫茫大士、渺渺真人携入红尘，历尽离合悲欢炎凉世态的一段故事。
+  ls-type:: annotation
+  hl-page:: 35
+  hl-color:: yellow
+  id:: 6a71f591-9473-4279-802a-d6e4dee7746a
+- 第一件，无朝代年纪可考；第二件，并无大贤大忠理朝廷治风俗的善政，其中只不过几个异样女子，或情或痴，或小才微善，亦无班姑、蔡女之德能[18]。我纵抄去，恐世人不爱看呢。
+  ls-type:: annotation
+  hl-page:: 35
+  hl-color:: yellow
+  id:: 6a71f671-09c4-4fbb-bf79-740a28c92907
+- 因毫不干涉时世，方从头至尾抄录回来，问世传奇。从此空空道人〔六〕因空[29]见色，由色生情，传情入色，自色悟空，遂易名为情僧，改《石头记》为《情僧录》。
+  ls-type:: annotation
+  hl-page:: 36
+  hl-color:: red
+  id:: 6a71f6d0-1527-41be-a5d9-cd03f3142a4f
+- 后因曹雪芹于悼红轩中披阅十载，增删五次，纂成目录，分出章回，则题曰《金陵十二钗》
+  ls-type:: annotation
+  hl-page:: 36
+  hl-color:: yellow
+  id:: 6a71f6e5-f15c-4dc9-8c0c-c48db26d51ba
+- 满纸荒唐言，一把辛酸泪。都云作者痴，谁解其中味！
+  ls-type:: annotation
+  hl-page:: 36
+  hl-color:: purple
+  id:: 6a71f6f4-f59d-46aa-a7c4-c307d200bac0
+- 富贵风流之地
+  ls-type:: annotation
+  hl-page:: 37
+  hl-color:: yellow
+  id:: 6a71f7fb-3997-4a10-9b42-5e23ae2e73d5
+- 谐音“势利街”、“人情巷”。
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: blue
+  id:: 6a71f83c-b76a-4fc8-941e-d7c8dfa9d524
+- 庙旁住着一家乡宦，姓甄，名费，字士隐。嫡妻封氏，情性贤淑，深明礼义。家中虽不甚富贵，然本地便也推他为望族了。
+  ls-type:: annotation
+  hl-page:: 37
+  hl-color:: green
+  id:: 6a71f870-98e7-4a54-86a8-256d200230d4
+- 这甄士隐禀性恬淡，不以功名为念，每日只以观花修竹、酌酒吟诗为乐，倒是神仙一流人品。
+  ls-type:: annotation
+  hl-page:: 37
+  hl-color:: yellow
+  id:: 6a71f8f4-6ffe-4fa3-91e4-d05e13a956bb
+- 如今年已半百，膝下无儿，只有一女，乳名唤作英莲〔七〕，年方三岁。
+  ls-type:: annotation
+  hl-page:: 37
+  hl-color:: yellow
+  id:: 6a71f901-0e21-4ecb-8226-bc7e37e88bdd
+- 士隐接了看时，原来是块鲜明美玉，上面字迹分明，镌着“通灵宝玉”四字，后面还有几行小字。正欲细看时，那僧便说已到幻境，便强从手中夺了去
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: yellow
+  id:: 6a71f9c1-4d19-4890-a507-51a55af2d822
+- 忽见隔壁葫芦庙内寄居的一个穷儒——姓贾名化、字表时飞、别号雨村者走了出来。
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: yellow
+  id:: 6a71fa78-f678-4d55-9f9c-aecb4588846e
+- 且喜明岁正当大比，兄宜作速入都，春闱[79]一战，方不负兄之所学也。其盘费馀事，弟自代为处置，亦不枉兄之谬识矣！”当下即命小童进去，速封五十两白银，并两套冬衣。又云：“十九日乃黄道之期，兄可即买舟西上，待雄飞高举，明冬再晤，岂非大快之事耶！”雨村收了银衣，不过略谢一语，并不介意，仍是吃酒谈笑。
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: yellow
+  id:: 6a71fc0b-1932-4948-8d88-bf25b8c582e7
+- 霍启抱了英莲去看社火花灯
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: yellow
+  id:: 6a71fe70-f449-4787-9875-97e926af039d
+- 霍启因要小解，便将英莲放在一家门槛上坐着。待他小解完了来抱时，那有英莲的踪影？急得霍启直寻了半夜，至天明不见，那霍启也就不敢回来见主人，便逃往他乡去了。
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: yellow
+  id:: 6a71feb7-10ba-4215-a842-7b93d5834412
+- 他十分得意，已会了进士，选入外班[9]，今已升了本府知府。虽才干优长，未免有些贪酷之弊；且又恃才侮上，那些官员皆侧目而视。不上一年，便被上司寻了个空隙，作成一本，参[10]他“生情狡猾，擅纂礼仪[11]，且沽清正之名，而暗结虎狼之属，致使地方多事，民命不堪”等语。龙颜大怒，即批革职。
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 6a7299d3-b0da-4236-b2b9-1e4238d30c7d
+- 林如海姓林名海，字表如海，乃是前科的探花[15]，今已升至兰台寺大夫〔四〕[17]，本贯姑苏人氏，今钦点出为巡盐御史，到任方一月有馀。原来这林如海之祖，曾袭过列侯，今到如海，业经五世。起初时，只封袭三世，因当今隆恩盛德，远迈前代，额外加恩，至如海之父，又袭了一代；至如海，便从科第出身。虽系钟鼎之家[18]，却亦是书香之族。
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: blue
+  id:: 6a729aa1-43c2-4bd1-8b3f-9616bdc74229
+- 女学生之母贾氏夫人
+  ls-type:: annotation
+  hl-page:: 57
+  hl-color:: blue
+  id:: 6a729af7-0765-40eb-8555-2adbc360f5bd
+- 政老爹的长女，名元春，现因贤孝才德，选入宫中作女史[50]去了。
+  ls-type:: annotation
+  hl-page:: 62
+  hl-color:: blue
+  id:: 6a72a805-3bfe-4057-be60-d0e9553baafe
+- 二小姐乃赦老爹之妾所出〔七〕，名迎春；
+  ls-type:: annotation
+  hl-page:: 62
+  hl-color:: blue
+  id:: 6a72a9e1-956c-4828-babc-427c7c1a3ccb
+- 三小姐乃政老爹之庶出，名探春
+  ls-type:: annotation
+  hl-page:: 62
+  hl-color:: blue
+  id:: 6a72aa00-75b0-488a-93d8-921132f59220
+- 四小姐乃宁府珍爷之胞妹，名唤惜春。
+  ls-type:: annotation
+  hl-page:: 62
+  hl-color:: blue
+  id:: 6a72aa05-959d-401a-b984-b70edff511ae
+- 弟已预为筹画至此，已修下荐书一封，转托内兄务为周全协佐，方可稍尽弟之鄙诚，即有所费用之例，弟于内兄信中已注明白，亦不劳尊兄多虑矣。
+  ls-type:: annotation
+  hl-page:: 70
+  hl-color:: yellow
+  id:: 6a72ac45-0c8e-4e6d-9c16-940cc8146521
+- 黛玉年貌虽小，其举止言谈不俗，身体面庞虽怯弱不胜，却有一段自然的风流态度，便知他有不足之症
+  ls-type:: annotation
+  hl-page:: 73
+  hl-color:: blue
+  id:: 6a72ad6c-7dbf-4bc3-b138-e7525558dd34
+- 黛玉道：“我自来是如此，从会吃饮食时便吃药，到今日未断，请了多少名医修方配药，皆不见效。
+  ls-type:: annotation
+  hl-page:: 73
+  hl-color:: blue
+  id:: 6a72adb7-2832-4cf1-9d57-e571e3171651
+- 彩绣辉煌，恍若神妃仙子。头上戴着金丝八宝攒珠髻[18]，绾着朝阳五凤挂珠钗[19]；项上带着赤金盘螭璎珞圈[20]；裙边系着豆绿宫绦双衡比目玫瑰珮〔二〕[22]；身上穿着缕金百蝶穿花大红洋缎〔三〕窄裉袄[24]，外罩五彩刻丝石青银鼠褂[25]；下着翡翠撒花洋绉裙[26] 。一双丹凤三角眼，两弯柳叶吊梢眉〔四〕[28]，身量苗条，体格风骚。粉面含春威不露，丹唇未启笑先闻。
+  ls-type:: annotation
+  hl-page:: 73
+  hl-color:: blue
+  id:: 6a72adf2-dc7f-4ca2-a72a-39d9ecc82874
+- 大舅贾赦之子贾琏，娶的就是二舅母王氏之内侄女，自幼假充男儿教养的，学名王熙凤。
+  ls-type:: annotation
+  hl-page:: 74
+  hl-color:: blue
+  id:: 6a72aef0-ef26-429f-a5ff-8cb96a4726fe
+- 天下真有这样标致的人物，我今儿才算见了！
+  ls-type:: annotation
+  hl-page:: 74
+  hl-color:: blue
+  id:: 6a72af3d-5c26-425c-ba80-88dd343b8968
+- 两弯似蹙非蹙罥烟眉[78]，一双似泣非泣含露目〔一二〕。态生两靥之愁，娇袭一身之病[80]。泪光点点，娇喘微微。闲静时如姣花照水，行动处似弱柳扶风。心较比干多一窍，病如西子胜三分
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: blue
+  id:: 6a72afe6-1f47-45b8-a48c-3dd7646bc610
+- 头上戴着束发嵌宝紫金冠，齐眉勒着二龙抢珠金抹额[67]；穿一件二色金百蝶穿花大红箭袖[68]，束着五彩丝攒花结长穗宫绦[69]，外罩石青起花八团倭缎排穗褂[70]；登着青缎粉底小朝靴[71]。面若中秋之月，色如春晓之花，鬓若刀裁，眉如墨画，面如桃瓣，目若秋波。虽怒时而若笑，即瞋视而有情。项上金螭璎珞，又有一根五色丝绦，系着一块美玉。
+  ls-type:: annotation
+  hl-page:: 79
+  hl-color:: blue
+  id:: 6a72b2bf-130a-4aa2-b0b3-a03ebfa8965d
+- 显得面如敷粉，唇若施脂；转盼多情，语言常笑。天然一段风骚，全在眉梢；平生〔一一〕万种情思，悉堆眼角。看其外貌最是极好，却难知其底细。
+  ls-type:: annotation
+  hl-page:: 79
+  hl-color:: blue
+  id:: 6a72b30a-fdd6-4e80-a007-46af559ac559
+- “这个妹妹我曾见过的。”贾母笑道：“可又是胡说，你又何曾见过他？”宝玉笑道：“虽然未曾见过他，然我看着面善，心里就算是旧相识，今日只作远别重逢，亦未为不可。”
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: yellow
+  id:: 6a72b34a-794d-486d-be70-7ebea889a056
+- 黛玉一见，便吃一大惊，心下想道：“好生奇怪〔一○〕，倒像在那里见过一般，何等眼熟到如此！”
+  ls-type:: annotation
+  hl-page:: 79
+  hl-color:: yellow
+  id:: 6a72b362-1fbe-43fb-93f1-2283136064f4
+- 二舅母生的有个表兄，乃衔玉而诞，顽劣异常，极恶读书，最喜在内帏[55]厮混；
+  ls-type:: annotation
+  hl-page:: 77
+  hl-color:: blue
+  id:: 6a72b3c9-5b31-4a48-a8db-9c983ba79dfc
+- 登时发作起痴狂病来，摘下那玉，就狠命摔去，骂道：“什么罕物，连人之高低不择，还说‘通灵’不‘通灵’呢！我也不要这劳什子[84]了！
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: yellow
+  id:: 6a72b419-2257-4803-97f4-d3123ab1ae8f
+- 原来这袭人亦是贾母之婢，本名珍珠。贾母因溺爱宝玉，生恐宝玉之婢无竭力尽忠之人，素喜袭人心地纯良，克尽职任，遂与了宝玉。宝玉因知他本姓花，又曾见旧人诗句上有“花气袭人”之句[89]，遂回明贾母，更名袭人。
+  ls-type:: annotation
+  hl-page:: 82
+  hl-color:: blue
+  id:: 6a783c90-69db-4c40-a09c-756f31d64738
+  hl-stamp:: 1786264723411
+- 珠虽夭亡，幸存一子，取名贾兰，今方五岁，已入学攻书。
+  ls-type:: annotation
+  hl-page:: 92
+  hl-color:: blue
+  id:: 6a783d5c-10ee-49b1-acd7-6c92ba0ffdd7
+- 李氏亦系金陵名宦之女，父名李守中，曾为国子监祭酒[5]，族中男女无有不诵诗读书者。至李守中承继以来，便说“女子无才便有德”[6]，故生了李氏时，便不十分令其读书，只不过将些《女四书》《列女传》《贤媛集》[7]等三四种书，使他认得几个字，记得前朝这几个贤女便罢了，却只以纺绩井臼[8]为要，因取名为李纨，字宫裁。
+  ls-type:: annotation
+  hl-page:: 92
+  hl-color:: blue
+  id:: 6a783edd-c2f1-42ca-ae63-0ee49472108b
+- 这李纨虽青春丧偶，居家处膏粱锦绣之中，竟如槁木死灰[9]一般，一概无见无闻，惟知侍亲养子，外则陪侍小姑等针黹[10]诵读而已。
+  ls-type:: annotation
+  hl-page:: 92
+  hl-color:: blue
+  id:: 6a783f28-744e-4d27-9df6-97aabd1d9904
+- 只见案边立的一个门子[16]使眼色儿，——不令他发签之意。雨村心下甚为疑怪，只得停了手，即时退堂，至密室，侍从皆退去，只留门子服侍。
+  ls-type:: annotation
+  hl-page:: 93
+  hl-color:: yellow
+  id:: 6a78400d-022d-4d02-9e4d-000949e5bd58
+- 这门子道：“老爷既荣任到这一省，难道就没抄一张本省‘护官符’来不成？”雨村忙问：“何为‘护官符’？我竟不知。”门子道：“这还了得！连这个不知，怎能作得长远！如今凡作地方官者，皆有一个私单，上面写的是本省最有权有势、极富极贵的大乡绅名姓，各省皆然；倘若不知，一时触犯了这样的人家，不但官爵不保，只怕连性命还保不成呢！所以绰号叫作‘护官符’。方才所说的这薛家，老爷如何惹得他
+  ls-type:: annotation
+  hl-page:: 93
+  hl-color:: yellow
+  id:: 6a78408d-86c9-40b4-968b-fecb13afde0b
+- 至次日坐堂，勾取一应有名人犯，雨村详加审问，果见冯家人口稀疏，不过赖此欲多得些烧埋之费；薛家仗势倚情，偏不相让，故致颠倒未决。雨村便徇情枉法，胡乱判断了此案。冯家得了许多烧埋银子，也就无甚话说了
+  ls-type:: annotation
+  hl-page:: 97
+  hl-color:: yellow
+  id:: 6a844c34-154d-4e68-89bc-c1d37099efb7
+- 寡母王氏乃现任京营节度使王子腾之妹，与荣国府贾政的夫人王氏，是一母所生的姊妹，今年方四十上下年纪，只有薛蟠一子。
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: blue
+  id:: 6a844cb1-8e75-4121-88df-f2ae40f62179
+- 还有一女，比薛蟠小两岁，乳名宝钗，生得肌骨莹润，举止娴雅。
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: blue
+  id:: 6a844d7a-a1aa-410e-990c-f447c692328a
+- 当日有他父亲在日，酷爱此女，令其读书识字，较之乃兄竟高过十倍。自父亲死后，见哥哥不能依贴母怀，他便不以书字为事，只留心针黹家计等事，好为母亲分忧解劳。
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: green
+  id:: 6a844e1b-801f-401e-913d-6750837c7552
+- 近因今上[45]崇诗尚礼，征采才能，降不世出之隆恩[46]，除聘选妃嫔外，凡仕宦名家之女，皆亲送〔一四〕名达部，以备选为公主郡主[48]入学陪侍，充为才人赞善[49]之职。
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: yellow
+  id:: 6a844ee2-0d91-448e-a043-58ec06e2cdf3

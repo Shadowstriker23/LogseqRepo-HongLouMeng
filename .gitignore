@@ -1,0 +1,9 @@
+# LogSeq 构建产物（由 CI 重新生成，不必进 git）
+public/
+outputs/
+logseq/bak/
+logseq/.recycle/
+
+# 系统文件
+.DS_Store
+Thumbs.db
