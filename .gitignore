@@ -4,6 +4,11 @@ outputs/
 logseq/bak/
 logseq/.recycle/
 
+# 不随网站发布的个人内容
+journals/
+whiteboards/
+pages/环境描写碎片.md
+
 # 系统文件
 .DS_Store
 Thumbs.db
